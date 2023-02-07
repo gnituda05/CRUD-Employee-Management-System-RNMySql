@@ -9,9 +9,12 @@ CRUD-Employee-Management-System using ReactJS, NodeJS, MySQL
   
 # Run
   Frontend
-  console.log("cd client");
-  console.log("npm start");
+  ```- "cd client"
+     - "npm start"
+     ```
 
   Backend
+  ```
   console.log("cd server
   console.log("node index.js")
+  ```
