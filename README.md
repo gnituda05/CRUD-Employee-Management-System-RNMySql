@@ -1,6 +1,11 @@
 # CRUD-Employee-Management-System-RNMySql
 
-CRUD-Employee-Management-System using ReactJS, NodeJS, MySQL
+Employee Management System 
+Simple CRUD App All in one page:
+ - Department
+ - Employee
+ - Bonus
+
 
 # Requirements
   - ReactJS
